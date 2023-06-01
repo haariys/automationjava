@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-31T22:22:06 PKT" name="Default suite" finished-at="2023-05-31T22:22:12 PKT" duration-ms="6120">
+  <suite started-at="2023-06-01T14:26:04 PKT" name="Default suite" finished-at="2023-06-01T14:26:08 PKT" duration-ms="4617">
     <groups>
     </groups>
-    <test started-at="2023-05-31T22:22:06 PKT" name="Default test" finished-at="2023-05-31T22:22:12 PKT" duration-ms="6120">
+    <test started-at="2023-06-01T14:26:04 PKT" name="Default test" finished-at="2023-06-01T14:26:08 PKT" duration-ms="4617">
       <class name="apitesting.CRUD">
-        <test-method signature="getResponseBody()[pri:0, instance:apitesting.CRUD@18d87d80]" started-at="2023-05-31T22:22:06 PKT" name="getResponseBody" finished-at="2023-05-31T22:22:12 PKT" duration-ms="6020" status="PASS">
+        <test-method signature="getResponseBody()[pri:0, instance:apitesting.CRUD@37d4349f]" started-at="2023-06-01T14:26:04 PKT" name="getResponseBody" finished-at="2023-06-01T14:26:08 PKT" duration-ms="4550" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResponseBody -->
