@@ -24,9 +24,7 @@ public class CRUD {
 //		ValidatableResponse response = given().when().get("/api/users/2").then().assertThat().statusCode(200)
 //				.assertThat().body(containsString("janet.weaver@reqres.in")).body("data.first_name", equalTo("Janet"))
 //				.log().all();
-		
-		
-				
+
 		get("/api/users?page=2").then().assertThat().body(matchesJsonSchemaInClasspath("schema.json"));
 
 	}
